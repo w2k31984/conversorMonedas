@@ -17,7 +17,7 @@ El propósito de esta aplicación es ofrecer una forma rápida y fácil de conve
 - **CSS**: Para los estilos y diseño visual.
 
 ## Insignia
-![Insignia](https://img.shields.io/badge/Repositorio-Click%20here-blue)
+[![Insignia](https://img.shields.io/badge/Repositorio-Click%20here-blue)](https://github.com/w2k31984/conversorMonedas)
 
 ## Instalación
 1. Clona el repositorio en tu máquina local.
