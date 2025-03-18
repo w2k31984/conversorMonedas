@@ -22,5 +22,5 @@ El propósito de esta aplicación es ofrecer una forma rápida y fácil de conve
 
 ## Instalación
 1. Clona el repositorio en tu máquina local.
-   ```bash
+   bash
    git clone https://github.com/w2k31984/conversorMonedas.git
